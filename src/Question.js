@@ -21,7 +21,7 @@ function shuffleArray(array) {
 }
 
 
-function Question(question, answer, decoys) {
+export function Question(question, answer, decoys) {
     this.question = question;
     this.answer = answer;
     this.decoys = decoys;
