@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about"],{f820:function(n,t,a){"use strict";a.r(t);var o=a("7a23"),e={class:"about"},r=Object(o["g"])("p",null,"You can download your transaction history from Santander as a .txt file, then upload it here to analyse your spending habits",-1);function s(n,t){return Object(o["p"])(),Object(o["d"])("div",e,[r])}const u={};u.render=s;t["default"]=u}}]);
+//# sourceMappingURL=about.2b31343a.js.map
